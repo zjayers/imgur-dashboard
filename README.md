@@ -1,18 +1,21 @@
-<h1 align="center">Welcome to imgur-dashboard 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-</p>
+# Imgur-Dashboard
+[![GitHub Release](https://img.shields.io/github/release/zjayers/imgur-dashboard.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/imgur-dashboard.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/imgur-dashboard.svg?maxAge=25000)](https://github.com/zjayers/imgur-dashboard/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/imgur-dashboard/blob/master/LICENSEs)
 
-## Install
+## Description
 
-```sh
-npm install
-```
+> Work in progress
 
-## Show your support
+## Features
 
-Give a ⭐️ if this project helped you!
+> Work in progress
 
----
+## Installation
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+> Work in progress
+
+## Usage
+
+> Work in progress
